@@ -7,3 +7,8 @@ This is a Javascript focused project done during the following course:
 > Udemy.com
 
 View the project here: https://sufiansuni.github.io/DiceGame-Javascript/
+
+## Learning Points
+- Query Selector
+- Set Attribute
+- Math floor and random
